@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'emmerge:graviton',
+  name: 'asn007:graviton',
   summary: "Transform collection records into Models and define and use relationships between Meteor collections",
-  git: "https://github.com/emmerge/graviton",
+  git: "https://github.com/asn007/graviton",
   version: '0.0.23'
 });
 
